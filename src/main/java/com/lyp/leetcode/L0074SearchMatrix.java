@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.lyp.leetcode;
 
 import org.junit.Assert;
 import org.junit.Test;

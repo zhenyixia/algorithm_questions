@@ -1,4 +1,4 @@
-package com.algorithm;
+package com.lyp.algorithm;
 
 import java.util.Arrays;
 import org.junit.Assert;
