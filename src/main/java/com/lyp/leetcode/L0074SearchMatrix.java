@@ -5,7 +5,8 @@ import org.junit.Test;
 
 /**
  * @author liyapeng
- * @description 74. 搜索二维矩阵 https://leetcode.cn/problems/search-a-2d-matrix/ 16.56--
+ * @description 二分查找 74. 搜索二维矩阵
+ * https://leetcode.cn/problems/search-a-2d-matrix/ 16.56--
  * @date 2023/7/30 16:55
  */
 public class L0074SearchMatrix{
